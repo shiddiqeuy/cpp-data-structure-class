@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Class Hub
+    url: https://github.com/shiddiqeuy/cpp-data-structure-class
+    about: Read class instructions before creating a troubleshooting issue.
